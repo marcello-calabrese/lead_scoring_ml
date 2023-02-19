@@ -19,7 +19,7 @@ conn = psycopg2.connect(
     host = 'localhost',
     dbname = 'Leads',
     user = 'postgres',
-    password = 'Lorenzo_22',
+    password = 'LXXXX',
     port = '5432')
 
 # save the dataframe to the database
